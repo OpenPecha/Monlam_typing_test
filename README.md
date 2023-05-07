@@ -2,5 +2,5 @@
 
 Pending contributions:
 
-- accuracy function needs improvement
-- generating random paragraph for the test is needed
+- [accuracy function needs improvement](https://github.com/OpenPecha/tibetan_typing_test/issues/1)
+- [generating random paragraph for the test is needed](https://github.com/OpenPecha/tibetan_typing_test/issues/2)
